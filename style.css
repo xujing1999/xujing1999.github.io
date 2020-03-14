@@ -56,7 +56,6 @@
   line-height:160%
 }
 
-
 #p5{
   position: absolute;
   padding: 1rem 2rem;
@@ -305,6 +304,11 @@ html, body {
 .logo{
   position: absolute;
   top: 8%;
+  left: 5%;
+}
+#ti{
+  position: absolute;
+  top: 40%;
   left: 5%;
 }
 
